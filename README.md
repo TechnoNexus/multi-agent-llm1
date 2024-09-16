@@ -29,3 +29,6 @@ npm install
 npm run dev
 ```
 6. Navigate to localhost:3000 and enjoy the app!
+
+
+### Don't forget to add your keys in .env file
